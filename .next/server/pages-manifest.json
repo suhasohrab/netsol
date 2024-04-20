@@ -1,4 +1,5 @@
 {
+  "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html",
   "/about": "pages/about.html",
@@ -7,6 +8,7 @@
   "/blog-masonary": "pages/blog-masonary.html",
   "/blog-sidebar": "pages/blog-sidebar.html",
   "/blog-standard": "pages/blog-standard.html",
+  "/_error": "pages/_error.js",
   "/blog": "pages/blog.html",
   "/case-study-details": "pages/case-study-details.html",
   "/case-study-standard": "pages/case-study-standard.html",
@@ -39,7 +41,5 @@
   "/service4": "pages/service4.html",
   "/team1": "pages/team1.html",
   "/team2": "pages/team2.html",
-  "/team3": "pages/team3.html",
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js"
+  "/team3": "pages/team3.html"
 }
