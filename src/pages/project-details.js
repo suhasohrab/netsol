@@ -115,7 +115,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="200ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -130,9 +130,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Loan Calculator</a>
-                              </Link>
                             </h4>
                             <p>
                               Enhance customer engagement with a feature-rich
@@ -209,7 +207,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -228,9 +226,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Quotation</a>
-                              </Link>
                             </h4>
                             <p>
                               Easily create multiple quotations for customers
@@ -286,7 +282,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="400ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -307,9 +303,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Business Partner Exposure</a>
-                              </Link>
                             </h4>
                             <p>
                               Full customer exposure – from financial
@@ -351,7 +345,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="400ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -367,9 +361,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Credit Scoring</a>
-                              </Link>
                             </h4>
                             <p>
                               Credit scoring is highly configurable through our
@@ -435,7 +427,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -450,9 +442,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Proposal</a>
-                              </Link>
                             </h4>
                             <p>
                               Convert a quote into a proposal or create a fresh

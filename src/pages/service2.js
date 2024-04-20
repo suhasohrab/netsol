@@ -638,7 +638,7 @@ function ServicePage() {
                 </div>
                 <div className="solution-content">
                   <h4>
-                    <Link legacyBehavior href="/project-details-digital8.js">
+                    <Link legacyBehavior href="/project-details-digital8">
                       <a>Mobile Auditor
 </a>
                     </Link>

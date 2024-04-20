@@ -1,8 +1,8 @@
 {
   "_app.js -> bootstrap/dist/js/bootstrap": {
-    "id": 3734,
+    "id": "_app.js -> bootstrap/dist/js/bootstrap",
     "files": [
-      "static/chunks/3734.f40b8ba539f5e154.js"
+      "static/chunks/node_modules_bootstrap_dist_js_bootstrap_js.js"
     ]
   }
 }

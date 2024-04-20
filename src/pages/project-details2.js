@@ -102,7 +102,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="200ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -117,9 +117,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Contract Activation and Management</a>
-                              </Link>
                             </h4>
                             <p>
                               Manage the entire contract creation process until
@@ -200,7 +198,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -219,9 +217,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Customer Management</a>
-                              </Link>
                             </h4>
                             <p>
                               Modify contracts in real-time without the need for
@@ -293,7 +289,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="400ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -314,9 +310,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Collections</a>
-                              </Link>
                             </h4>
                             <p>
                               Manage all payment receipts against different
@@ -372,7 +366,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="400ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -388,9 +382,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Asset Remarketing</a>
-                              </Link>
                             </h4>
                             <p>
                               Manage the asset remarketing process from asset
@@ -443,7 +435,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -458,9 +450,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Asset Inventory Register</a>
-                              </Link>
                             </h4>
                             <p>
                               Maintain the asset in the register with their
@@ -501,7 +491,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -516,9 +506,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Asset Re-Lease</a>
-                              </Link>
                             </h4>
                             <p>
                               Manage the re-lease of the asset as it comes off
@@ -559,7 +547,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -574,9 +562,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Finance and Accounting</a>
-                              </Link>
                             </h4>
                             <p>
                               Handle complete contract transactions either
@@ -645,7 +631,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item">
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -660,9 +646,7 @@ function ProjectDetailsPage() {
                           </div>
                           <div className="solution-content">
                             <h4>
-                              <Link legacyBehavior href="/service-details">
                                 <a>Closure</a>
-                              </Link>
                             </h4>
                             <p>
                               Manage the varied scenarios that lead to contract
