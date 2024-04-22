@@ -107,7 +107,7 @@ function ProjectDetailsPage() {
                 </div>
                 <h3>Key Components</h3>
 
-                <div className="home3-solution-section sec-mar">
+                <div className="home3-solution-section sec-mar" style={{height:'100%',position:'relative', right:'3%',top:'-60px'}}>
                   <div className="container">
                     <div className="row justify-content-center g-4">
                       <div
@@ -115,7 +115,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="200ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item" style={{height:'100%',position:'relative', right:'7%', bottom:'6%'}}>
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -207,7 +207,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item" style={{height:'100%',position:'relative', right:'7%', bottom:'6%'}}>
+                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
                           <div className="icon">
                             <svg
                               width={60}
