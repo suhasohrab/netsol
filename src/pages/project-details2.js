@@ -55,7 +55,7 @@ function ProjectDetailsPage() {
 
                   <div className="row g-4 justify-content-center">
                     <div className="col-xl-4 col-sm-6">
-                      <div className="single-process magnetic-item">
+                      <div className="single-process magnetic-item" style={{height:'100%',position:'relative', right:'55%', bottom:'6%'}}>
                         <div className="icon">
                           <img
                             src="assets/img/inner-pages/research.svg"
@@ -72,7 +72,7 @@ function ProjectDetailsPage() {
                       </div>
                     </div>
                     <div className="col-xl-4 col-sm-6">
-                      <div className="single-process magnetic-item">
+                      <div className="single-process magnetic-item" style={{height:'100%',position:'relative', right:'55%', bottom:'6%'}}>
                         <div className="icon">
                           <img
                             src="assets/img/inner-pages/devlopment.svg"
@@ -94,8 +94,8 @@ function ProjectDetailsPage() {
                 </div>
                 <h3>Key Components</h3>
 
-                <div className="home3-solution-section sec-mar">
-                  <div className="container">
+                <div className="home3-solution-section sec-mar" style={{height:'100%',position:'relative', right:'3%',top:'-60px'}}>
+                  <div className="container" >
                     <div className="row justify-content-center g-4">
                       <div
                         className="col-lg-6 col-md-6 col-sm-10 wow animate fadeInUp"
@@ -761,7 +761,7 @@ function ProjectDetailsPage() {
                     Ready to <br />
                     <span>work with us?</span>
                   </h2>
-                  <div className="get-btn">
+                  <div className="get-btn">F
                     <Link legacyBehavior href="/contact">
                       <a className="primary-btn3">Get a quote</a>
                     </Link>

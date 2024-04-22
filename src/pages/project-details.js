@@ -61,7 +61,7 @@ function ProjectDetailsPage() {
 
                   <div className="row g-4 justify-content-center">
                     <div className="col-xl-4 col-sm-6">
-                      <div className="single-process magnetic-item">
+                      <div className="single-process magnetic-item" style={{position:'relative', right:'55%'}}>
                         <div className="icon">
                           <img
                             src="assets/img/inner-pages/research.svg"
@@ -85,7 +85,7 @@ function ProjectDetailsPage() {
                       </div>
                     </div>
                     <div className="col-xl-4 col-sm-6">
-                      <div className="single-process magnetic-item">
+                      <div className="single-process magnetic-item" style={{position:'relative', right:'55%'}}>
                         <div className="icon">
                           <img
                             src="assets/img/inner-pages/devlopment.svg"
@@ -115,7 +115,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="200ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
+                        <div className="solution-card magnetic-item" style={{height:'100%',position:'relative', right:'7%', bottom:'6%'}}>
                           <div className="icon">
                             <svg
                               width={60}
@@ -128,7 +128,7 @@ function ProjectDetailsPage() {
                               <path d="M59.0094 18.8618H0.990565C0.73075 18.8574 0.483062 18.7511 0.300878 18.5658C0.118694 18.3805 0.0166016 18.1311 0.0166016 17.8712C0.0166016 17.6114 0.118694 17.3619 0.300878 17.1766C0.483062 16.9913 0.73075 16.885 0.990565 16.8806H59.0094C59.2692 16.885 59.5169 16.9913 59.6991 17.1766C59.8813 17.3619 59.9834 17.6114 59.9834 17.8712C59.9834 18.1311 59.8813 18.3805 59.6991 18.5658C59.5169 18.7511 59.2692 18.8574 59.0094 18.8618ZM16.9248 14.1218C15.1968 14.1218 13.79 12.7149 13.79 10.9869C13.79 9.25852 15.1968 7.8522 16.9248 7.8522C18.6532 7.8522 20.0595 9.25852 20.0595 10.9869C20.0595 12.7149 18.6532 14.1218 16.9248 14.1218ZM16.9248 9.83333C16.289 9.83333 15.7711 10.3507 15.7711 10.9869C15.7711 11.6231 16.289 12.1406 16.9248 12.1406C17.561 12.1406 18.0784 11.6233 18.0784 10.9869C18.0784 10.3506 17.561 9.83333 16.9248 9.83333ZM7.2934 14.0914C5.56472 14.0914 4.15854 12.685 4.15854 10.9566C4.15854 9.2281 5.56472 7.82178 7.29325 7.82178C9.02179 7.82178 10.428 9.2281 10.428 10.9566C10.428 12.685 9.02193 14.0914 7.2934 14.0914ZM7.2934 9.80291C6.65759 9.80291 6.13967 10.3208 6.13967 10.9566C6.13967 11.5929 6.65759 12.1102 7.29325 12.1102C7.92948 12.1102 8.44684 11.5929 8.44684 10.9566C8.44684 10.3208 7.92962 9.80291 7.2934 9.80291ZM26.5562 14.1516C24.8284 14.1516 23.4221 12.7453 23.4221 11.0168C23.4221 9.28895 24.8283 7.88263 26.5562 7.88263C28.2848 7.88263 29.6909 9.28881 29.6909 11.0168C29.6909 12.7453 28.2848 14.1516 26.5562 14.1516ZM26.5562 9.86319C25.9206 9.86319 25.4032 10.3806 25.4032 11.0168C25.4032 11.653 25.9206 12.1705 26.5562 12.1705C27.1925 12.1705 27.7098 11.653 27.7098 11.0168C27.7098 10.3806 27.1925 9.86319 26.5562 9.86319Z" />
                             </svg>
                           </div>
-                          <div className="solution-content">
+                          <div className="solution-content" >
                             <h4>
                                 <a>Loan Calculator</a>
                             </h4>
@@ -207,7 +207,7 @@ function ProjectDetailsPage() {
                         data-wow-delay="300ms"
                         data-wow-duration="1500ms"
                       >
-                        <div className="solution-card magnetic-item" style={{height:'100%'}}>
+                        <div className="solution-card magnetic-item" style={{height:'100%',position:'relative', right:'7%', bottom:'6%'}}>
                           <div className="icon">
                             <svg
                               width={60}

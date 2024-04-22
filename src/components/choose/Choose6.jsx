@@ -78,7 +78,7 @@ function Choose6() {
                   </div>
                 </div>*/}
               </div>
-              <div className="col-lg-5" style={{position:"relative", left:'-55%', top:-420}}>
+              <div className="col-lg-5" style={{position:"relative", left:'-55%',top:'-450px'}}>
                 <div className="choose-feature">
                   <ul>
                     <li>

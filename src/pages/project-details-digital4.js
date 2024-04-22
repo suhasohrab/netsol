@@ -38,7 +38,7 @@ function ProjectDetailsPage() {
 
                   <div className="row g-4 justify-content-center">
                     <div className="col-xl-4 col-sm-6">
-                      <div className="single-process magnetic-item" style={{height:'100%'}}>
+                      <div className="single-process magnetic-item"  style={{height:'100%',position:'relative', right:'55%'}}>
                         <div className="icon">
                           <img
                             src="assets/img/inner-pages/research.svg"
@@ -59,7 +59,7 @@ function ProjectDetailsPage() {
                       </div>
                     </div>
                     <div className="col-xl-4 col-sm-6">
-                      <div className="single-process magnetic-item" style={{height:'100%'}}>
+                      <div className="single-process magnetic-item"  style={{height:'100%',position:'relative', right:'55%'}}>
                         <div className="icon">
                           <img
                             src="assets/img/inner-pages/devlopment.svg"

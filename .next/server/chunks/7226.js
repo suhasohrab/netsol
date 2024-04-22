@@ -62,7 +62,7 @@ function Choose6() {
                                     style: {
                                         position: "relative",
                                         left: "-55%",
-                                        top: -420
+                                        top: "-450px"
                                     },
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                         className: "choose-feature",

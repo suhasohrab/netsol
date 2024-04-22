@@ -38,7 +38,7 @@ function AboutPage() {
               data-wow-delay="200ms"
               data-wow-duration="1500ms"
             >
-              <div className="solution-card magnetic-item">
+              <div className="solution-card magnetic-item" style={{height:'100%'}}>
                 <div className="icon">
                   <svg
                     width={60}
@@ -74,7 +74,7 @@ function AboutPage() {
               data-wow-delay="300ms"
               data-wow-duration="1500ms"
             >
-              <div className="solution-card magnetic-item">
+              <div className="solution-card magnetic-item" style={{height:'100%'}}>
                 <div className="icon">
                   <svg
                     width={60}
@@ -114,7 +114,7 @@ function AboutPage() {
               data-wow-delay="400ms"
               data-wow-duration="1500ms"
             >
-              <div className="solution-card magnetic-item">
+              <div className="solution-card magnetic-item" style={{height:'100%'}}>
                 <div className="icon">
                   <svg
                     width={60}
@@ -155,7 +155,7 @@ function AboutPage() {
               data-wow-delay="500ms"
               data-wow-duration="1500ms"
             >
-              <div className="solution-card magnetic-item">
+              <div className="solution-card magnetic-item" style={{height:'100%'}}>
                 <div className="icon">
                   <svg
                     width={60}
