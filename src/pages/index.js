@@ -36,7 +36,6 @@ export default function Home() {
       <Testimonial3 />
   <PricingPlan3 />*/}
       <Home3Contact />
-      <Home3Team />
      {/*<Home3Blog />*/}
       <Footer3 />
     </>
